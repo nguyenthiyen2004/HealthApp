@@ -1,5 +1,5 @@
-# HealthApp
-**Yêu cầu:	**
+### HealthApp
+## **Yêu cầu:**
 1	Giao diện người dùng (UI) thân thiện, dễ sử dụng và có đồ họa hấp dẫn.
 
 2	Tuân thủ các nguyên tắc thiết kế Material Design của Android.
@@ -29,7 +29,7 @@
 14	Thực hiện kiểm thử tự động đảm bảo ứng dụng hoạt động mượt mà và không gặp lỗi.
 ________________________________________
 
-**--> Những phần chưa code**
+## **--> Những phần chưa code**
 9. Lưu trữ địa phương và đồng bộ dữ liệu
 •	Lưu trữ cục bộ:
 o	Sử dụng Room Database để lưu trữ dữ liệu:
@@ -47,7 +47,7 @@ o	Sử dụng ViewPager2 để hiển thị các bước hướng dẫn.
 •	JUnit Test:
 •	Espresso Test:
 ________________________________________
-**Đã code cơ bản: **
+## **Đã code cơ bản:**
 1	Giao diện người dùng (UI) thân thiện, dễ sử dụng và có đồ họa hấp dẫn.
 
 2	Tuân thủ các nguyên tắc thiết kế Material Design của Android.
