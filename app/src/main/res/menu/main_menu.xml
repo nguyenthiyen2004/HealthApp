@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_save"
+        android:title="Save Token"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_retrieve"
+        android:title="Retrieve Token"
+        android:icon="@android:drawable/ic_menu_view"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_toggle_theme"
+        android:title="Toggle Theme"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_send_notification"
+        android:title="Send Notification"
+        android:icon="@android:drawable/ic_menu_send"
+        app:showAsAction="always" />
+</menu>

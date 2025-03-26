@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ứng dụng theo dõi Sức khỏe</string>
+    <string name="dashboard">Tổng quan</string>
+    <string name="steps">Số bước</string>
+    <string name="sleep">Giấc ngủ</string>
+    <string name="heart_rate">Nhịp tim</string>
+</resources>

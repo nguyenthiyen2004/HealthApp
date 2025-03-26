@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Kesehatan</string>
+    <string name="dashboard">Dasbor</string>
+    <string name="steps">Langkah</string>
+    <string name="sleep">Tidur</string>
+    <string name="heart_rate">Detak Jantung</string>
+</resources>

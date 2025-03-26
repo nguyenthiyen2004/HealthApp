@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_steps"
+        android:icon="@drawable/ic_steps"
+        android:title="Steps" />
+    <item
+        android:id="@+id/nav_sleep"
+        android:icon="@drawable/ic_sleep"
+        android:title="Sleep" />
+    <item
+        android:id="@+id/nav_heart_rate"
+        android:icon="@drawable/ic_heart_rate"
+        android:title="Heart Rate" />
+</menu>
