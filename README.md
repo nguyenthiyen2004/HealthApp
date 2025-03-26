@@ -1,4 +1,9 @@
 ### HealthApp
+
+## NOTE
+mới demo Step, còn Sleep, Heart Rate,... chưa gì cả
+
+
 ## **Yêu cầu:**
 1	Giao diện người dùng (UI) thân thiện, dễ sử dụng và có đồ họa hấp dẫn.
 
